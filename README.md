@@ -20,9 +20,9 @@
 
 <h2> Certifications</h2>
 - [Certified Ethical Hacker]
-  [ECC-CEH-Certificate.pdf](https://github.com/DanteFisher/DanteFisher/files/10212248/ECC-CEH-Certificate.pdf)
+  (https://github.com/DanteFisher/DanteFisher/files/10212248/ECC-CEH-Certificate.pdf)
 - [CompTia Security +]
-[CompTIA Security+ ce certificate (1).pdf](https://github.com/DanteFisher/DanteFisher/files/10212250/CompTIA.Security%2B.ce.certificate.1.pdf)
+ (https://github.com/DanteFisher/DanteFisher/files/10212250/CompTIA.Security%2B.ce.certificate.1.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
