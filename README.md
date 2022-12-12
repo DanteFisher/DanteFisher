@@ -18,6 +18,10 @@
 - <b>Python Scripts for Cybersecurity</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>![icons8-papers-64](https://user-images.githubusercontent.com/120420469/207159630-95a70d26-86f6-497f-b94d-7add611f33ca.png)
+ Certifications</h2>
+- [Certified Ethical Hacker] 
+- [CompTia Security +]
 
 
 <h2> 🤳 Connect with me:</h2>
