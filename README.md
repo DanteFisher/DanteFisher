@@ -22,7 +22,7 @@
 
 <h2> 🤳 Connect with me:</h2>
   
-[<img align="left" alt="DanteFisher | LinkedIn" width="22px" src="https://www.linkedin.com/in/dante-fisher-a38a51207" />][linkedin]
+[<img align="left" alt="DanteFisher | LinkedIn" width="22px" src="https://www.linkedin.com/in/dante-fisher-a38a51207"/>][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/dante-fisher-a38a51207
